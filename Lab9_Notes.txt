@@ -1,0 +1,21 @@
+Lab 9: Final Readiness Task
+
+Objective:
+To demonstrate readiness by combining Python script, API call, and Git push.
+
+Platform:
+AWS EC2 Ubuntu Terminal and GitHub
+
+File Created:
+lab9_final.py
+
+Tasks Completed:
+1. Created final Python script.
+2. Performed API call.
+3. Printed API response.
+4. Added file to Git.
+5. Committed changes.
+6. Pushed to GitHub.
+
+Result:
+Successfully demonstrated final readiness by combining all required components.
